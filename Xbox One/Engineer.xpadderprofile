@@ -1,0 +1,56 @@
+;--- Xpadder Profile File ---
+DataType=Profile
+Version=2015.01.01
+
+[Profile Settings]
+
+[Set Settings]
+
+[Assignments]
+Set1Button1Slots=Space
+Set1Button2Slots=HOLD ZONE 0.60s,5,HOLD ZONE 0.50s,4,HOLD ZONE 0.40s,3,HOLD ZONE 0.30s,2,RELEASE ZONE 0.01s,1,RELEASE ZONE 0.25s
+Set1Button3Slots=V
+Set1Button4Slots=HOLD ZONE 0.30s,F1,RELEASE ZONE 0.01s,6,RELEASE ZONE 0.25s
+Set1Button5Slots=Left Control,T
+Set1Button7Slots=F
+Set1Button8Slots=M
+Set1Button9Slots=V
+Set1Button10Slots=C
+Set1DPadUpSlots=Mouse Wheel Up
+Set1DPadDownSlots=Mouse Wheel Down
+Set1Stick1UpSlots=W
+Set1Stick1RightSlots=D
+Set1Stick1DownSlots=S
+Set1Stick1LeftSlots=A
+Set1Stick2UpSlots=Mouse Move Up
+Set1Stick2UpMouseSpeed=32
+Set1Stick2RightSlots=Mouse Move Right
+Set1Stick2RightMouseSpeed=32
+Set1Stick2DownSlots=Mouse Move Down
+Set1Stick2DownMouseSpeed=32
+Set1Stick2LeftSlots=Mouse Move Left
+Set1Stick2LeftMouseSpeed=32
+Set1TriggerLeftSetSelect=1
+Set1TriggerRightSlots=HOLD ZONE 0.30s,Right Mouse Button (2),RELEASE ZONE 0.01s,Left Mouse Button (1),RELEASE ZONE 0.25s
+Set2Button1Slots=HOLD ZONE 0.30s,F2,RELEASE ZONE 0.01s,2,RELEASE ZONE 0.25s
+Set2Button2Slots=HOLD ZONE 0.30s,F1,RELEASE ZONE 0.01s,1,RELEASE ZONE 0.25s
+Set2Button3Slots=HOLD ZONE 0.30s,F3,RELEASE ZONE 0.01s,3,RELEASE ZONE 0.25s
+Set2Button4Slots=HOLD ZONE 0.30s,F4,RELEASE ZONE 0.01s,4,RELEASE ZONE 0.25s
+Set2Button5Slots=Left Control,T
+Set2Button7Slots=F
+Set2Button8Slots=M
+Set2Button9Slots=V
+Set2Button10Slots=C
+Set2Stick1UpSlots=W
+Set2Stick1RightSlots=D
+Set2Stick1DownSlots=S
+Set2Stick1LeftSlots=A
+Set2Stick2UpSlots=Mouse Move Up
+Set2Stick2UpMouseSpeed=32
+Set2Stick2RightSlots=Mouse Move Right
+Set2Stick2RightMouseSpeed=32
+Set2Stick2DownSlots=Mouse Move Down
+Set2Stick2DownMouseSpeed=32
+Set2Stick2LeftSlots=Mouse Move Left
+Set2Stick2LeftMouseSpeed=32
+Set2TriggerLeftSetSelect=0

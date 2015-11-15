@@ -1,10 +1,23 @@
+# Preparation
+Configure the game client with these options and bindings to get the best results.
+ - Enable First Person Camera
+ - Ground Targeting: Normal
+ - Disable Double-Tap to Evade
+ - Lock Ground Target at Maximum Skill Range
+ - Snap Ground Target to Current Target
+ - Toggle Action Camera: <kbd>C</kbd>
+ - Next Ally: <kbd>Home</kbd>
+ - Previous Ally: <kbd>Shift</kbd> + <kbd>Home</kbd>
+  
 # Control Options
 * Set 1: default set
 * Set 2: left trigger (while held)
 
-The control options for the Right Trigger (RT) change when Action Camera is enabled or disabled. The right trigger is used to simulate left and right mouse button clicks.
+The Right Trigger (RT) is used to simulate left and right mouse button clicks.
  - Tap RT for mouse button 1
  - Hold RT for mouse button 2
+ 
+ The control options for the Right Trigger change when Action Camera is enabled or disabled.
 
 | Custom | Set 1 | Set 2 |
 |:-------|:---:|:---:|
@@ -12,8 +25,8 @@ The control options for the Right Trigger (RT) change when Action Camera is enab
 | Mouse Button 2 | Right Trigger (while held) | |
 | Mouse Movement | Right Stick | Right Stick |
 | Mouse Wheel | D-Pad ↕ | |
-| Weapon Skill 1 | Right Trigger¹ | |
-¹ Only with Action Camera
+| Weapon Skill 1 | Right Trigger<sup>1</sup> | |
+<sup>1</sup> Only with Action Camera enabled
  
 | Movement | Set 1 | Set 2 |
 |:---------|:---:|:---:|
@@ -34,12 +47,12 @@ The control options for the Right Trigger (RT) change when Action Camera is enab
 | Skills | Set 1 | Set 2 |
 |:-------|:---:|:---:|
 | Swap Weapons | | |
-| Weapon Skill 1 | B Button | B Button |
-| Weapon Skill 2 | | |
-| Weapon Skill 3 | | |
-| Weapon Skill 4 | | |
-| Weapon Skill 5 | | |
-| Healing Skill | Y Button | |
+| Weapon Skill 1 | X Button | |
+| Weapon Skill 2 | Y Button | |
+| Weapon Skill 3 | B Button | |
+| Weapon Skill 4 | | Y Button |
+| Weapon Skill 5 | | B Button |
+| Healing Skill | Right Stick Button | Right Stick Button |
 | Utility Skill 1 | | |
 | Utility Skill 2 | | |
 | Utility Skill 3 | | |
@@ -54,15 +67,18 @@ The control options for the Right Trigger (RT) change when Action Camera is enab
 
 | Targeting | Set 1 | Set 2 |
 |:----------|:---:|:---:|
-| Call Target | Left Bumber | |
-| Take Target | | |
+| Call Target | Left Bumber (hold) | |
+| Take Target | Left Bumper | |
 | Nearest Enemy | | |
-| Next Enemy | | |
-| Previous enemy | | |
+| Next Enemy | D-Pad ⇨ | |
+| Previous enemy | D-Pad ⇦ | |
 | Nearest Ally | | |
-| Next Ally | | |
-| Previous Ally | | |
+| Next Ally<sup>1</sup> | | D-Pad ⇨ |
+| Previous Ally<sup>2</sup> | | D-Pad ⇦ |
 | Lock Autotarget | | |
+<sup>1</sup> Assign to <kbd>Home</kbd>
+
+<sup>2</sup> Assign to <kbd>Shift</kbd> + <kbd>Home</kbd>
 
 | User Interface | Set 1 | Set 2 |
 |:---------------|:---:|:---:|
@@ -92,7 +108,8 @@ The control options for the Right Trigger (RT) change when Action Camera is enab
 | Zoom In | | |
 | Zoom Out | | |
 | Look Behind | | |
-| Toggle Action Camera | Right Stick Button | Right Stick Button |
+| Toggle Action Camera<sup>1</sup> | Right Stick Button (hold) | Right Stick Button (hold) |
+<sup>1</sup> Assign to <kbd>C</kbd>
 
 | Screenshot | Set 1 | Set 2 |
 |:-------|:---:|:---:|

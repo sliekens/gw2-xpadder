@@ -19,14 +19,12 @@ The Right Trigger (RT) is used to simulate left and right mouse button clicks.
  
  The control options for the Right Trigger change when Action Camera is enabled or disabled.
 
-| Custom | Set 1 | Set 2 |
+| Custom Controls | Set 1 | Set 2 |
 |:-------|:---:|:---:|
 | Mouse Button 1 | Right Trigger | |
 | Mouse Button 2 | Right Trigger (while held) | |
 | Mouse Movement | Right Stick | Right Stick |
 | Mouse Wheel | D-Pad ↕ | |
-| Weapon Skill 1 | Right Trigger<sup>1</sup> | |
-<sup>1</sup> Only with Action Camera enabled
  
 | Movement | Set 1 | Set 2 |
 |:---------|:---:|:---:|
@@ -36,7 +34,7 @@ The Right Trigger (RT) is used to simulate left and right mouse button clicks.
 | Strafe Right | | |
 | Turn Left | Left Stick ⇦ | Left Stick ⇦ |
 | Turn Right | Left Stick ⇨ | Left Stick ⇨ |
-| Dodge | Left Stick Button<br>X Button| Left Stick Button<br>X Button |
+| Dodge | Left Stick Button | Left Stick Button |
 | Autorun | | |
 | Walk | | |
 | Jump | A Button | |
@@ -47,7 +45,7 @@ The Right Trigger (RT) is used to simulate left and right mouse button clicks.
 | Skills | Set 1 | Set 2 |
 |:-------|:---:|:---:|
 | Swap Weapons | | |
-| Weapon Skill 1 | X Button | |
+| Weapon Skill 1 | X Button<br>Right Trigger<sup>1</sup> | |
 | Weapon Skill 2 | Y Button | |
 | Weapon Skill 3 | B Button | |
 | Weapon Skill 4 | | Y Button |
@@ -64,6 +62,7 @@ The Right Trigger (RT) is used to simulate left and right mouse button clicks.
 | Profession Skill 3 | | |
 | Profession Skill 4 | | |
 | Profession Skill 5 | | |
+<sup>1</sup> Only with Action Camera enabled
 
 | Targeting | Set 1 | Set 2 |
 |:----------|:---:|:---:|
